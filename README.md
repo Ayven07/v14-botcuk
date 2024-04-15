@@ -7,4 +7,5 @@ Evet biraz hatalı bıraktık botu biliyorsunuz ki bu piyasada herkes botçu her
 <br> </br>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/752942906322583712?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/752942906322583712) 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/908464652688711680?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/752942906322583712) 
-bot bizim değildir sadece dediğim gibi bi kaç editçinin botudur
+<br></br>
+**bot bizim değildir sadece dediğim gibi bi kaç editçinin botudur**
