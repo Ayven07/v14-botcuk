@@ -1,0 +1,32 @@
+{
+"token": "", // SUPERVİSOR TOKENİNİ GİR
+"prefix": ["."], // BOT PREFİX
+"guildID": "1225932084317519932", // SUNUCU ID
+"guildName": "rainha tester", // SUNUCU ADI
+"mongoUrl": " ", // MONGO GİR APTAL BOTCU
+"owners": ["908464652688711680"], // BOT OWNER İD
+"botDurum": ["Créated By Rainha"], // BOT DURUMUN
+  
+"dmMessages": true, 
+"coinSystem": true,
+
+"messageCount": 5,
+"messageCoin": 1,
+"voiceCount": 5,
+"voiceCoin": 1,
+"streamCount": 1,
+"streamCoin": 1,
+"cameraCount": 1,
+"cameraCoin": 1,
+"publicCoin": 1,
+"taggedCoin": 15,
+"registerCoin": 1,
+"yetkiCoin": 30,
+"inviteCoin": 10,
+
+"banlimit": 3,
+"jaillimit": 3,
+"warnlimit": 3,
+"chatmutelimit": 3,
+"voicemutelimit": 3
+}
